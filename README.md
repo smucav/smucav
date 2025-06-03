@@ -29,12 +29,13 @@ Welcome to my GitHub space! I'm a passionate software engineer with a curious mi
 
 ---
 
+
 ## 🧠 2025 Focus Areas
 
-- 📊 Sentiment-based stock prediction using NLP + technical indicators
-- 🧪 Building modular data pipelines for EDA and ML workflows
-- 🔐 Practicing ethical hacking and analyzing security vulnerabilities
-- 🧱 Deepening knowledge in distributed systems and design patterns
+- ☁️ AWS Cloud Computing: Solutions architecture, security, and scalable cloud design
+- 🤖 Kifiya AI Mastery: Project-based training in Generative AI, ML, and Data Engineering for FinTech
+- 🔐 Ethical hacking and security practice
+- 🧱 Distributed systems and design patterns
 
 ---
 
