@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Tujuma A.K.A smucav
+# 👋 Hi, I'm Daniel Tujuma
 
 Welcome to my GitHub space! I'm a passionate software engineer with a curious mind and a love for exploring the intersections of systems programming, data science, and ethical hacking.
 
