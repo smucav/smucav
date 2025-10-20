@@ -14,8 +14,7 @@ Welcome to my GitHub space! I'm a passionate software engineer with a curious mi
 - ☕ I recharge with strong coffee and open-source side quests.
 - 📫 Reach me at: **smucav@gmail.com**
 - 🌍 Based in Ethiopia | 🌐 [LinkedIn](https://linkedin.com/in/daniel-tujuma-110a7a350/)
--  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b2c2959f-4177-4a21-812b-72c58f9c2530" />
- [Resume](https://drive.google.com/file/d/1h1ceLfBEbGeKnVBhAQE4U9U2aOFFg7-U/view)
+-  📄 [Resume](https://drive.google.com/file/d/1h1ceLfBEbGeKnVBhAQE4U9U2aOFFg7-U/view)
 
 ---
 
