@@ -14,7 +14,7 @@ Welcome to my GitHub space! I'm a passionate software engineer with a curious mi
 - ☕ I recharge with strong coffee and open-source side quests.
 - 📫 Reach me at: **smucav@gmail.com**
 - 🌍 Based in Ethiopia | 🌐 [LinkedIn](https://linkedin.com/in/daniel-tujuma-110a7a350/)
--  📄 [Resume](https://drive.google.com/file/d/1h1ceLfBEbGeKnVBhAQE4U9U2aOFFg7-U/view)
+-  📄 [Resume](https://drive.google.com/file/d/12UKPeGPz-pcquQJSk0hMMXUz-b6aVx_p/view)
 
 ---
 
@@ -27,16 +27,6 @@ Welcome to my GitHub space! I'm a passionate software engineer with a curious mi
   - **ML/Data:** Pandas, NumPy, scikit-learn, NLTK, TA-Lib
 - **Tools:** Git, Docker, Emacs, Jupyter Notebooks
 - **DevOps & Cloud:** Bash scripting, CI/CD pipelines (learning AWS & GCP)
-
----
-
-
-## 🧠 2025 Focus Areas
-
-- ☁️ AWS Cloud Computing: Solutions architecture, security, and scalable cloud design
-- 🤖 Kifiya AI Mastery: Project-based training in Generative AI, ML, and Data Engineering for FinTech
-- 🔐 Ethical hacking and security practice
-- 🧱 Distributed systems and design patterns
 
 ---
 
