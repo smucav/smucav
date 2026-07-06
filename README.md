@@ -20,12 +20,12 @@ Welcome to my GitHub space! I'm a passionate software engineer with a curious mi
 
 ## ⚙️ Tech Toolbox
 
-- **Languages:** Go 🐹, Python 🐍, JavaScript
+- **Languages:** Go 🐹, Python 🐍, TypeScript
 - **Frameworks/Libraries:**
-  - **Backend:** Gin, GORM, Flask, Node.js
+  - **Backend:** Gin, GORM, Flask, Typescript
   - **Frontend:** React, Tailwind CSS
   - **ML/Data:** Pandas, NumPy, scikit-learn, NLTK, TA-Lib
-- **Tools:** Git, Docker, Emacs, Jupyter Notebooks
+- **Tools:** Git, Docker, Emacs, Zed, Jupyter Notebooks
 - **DevOps & Cloud:** Bash scripting, CI/CD pipelines (learning AWS & GCP)
 
 ---
